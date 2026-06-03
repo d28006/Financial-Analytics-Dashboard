@@ -2,7 +2,7 @@
 
 1. Project Title / Headline
 
-💹 Financial Analytics Dashboard: Multi-Year Insights on Sales, Profitability, and Discounts
+ Financial Analytics Dashboard: Multi-Year Insights on Sales, Profitability, and Discounts
 An interactive Power BI dashboard designed to track financial KPIs such as revenue growth, order volumes, profit, profit margin, and discounts across different countries, customer segments, and product lines—empowering finance leaders and business executives to make data-driven decisions for sustainable growth.
 
 2. Short Description / Purpose
@@ -13,17 +13,17 @@ The Financial Analytics Dashboard provides a comprehensive analysis of core fina
 
 The dashboard was built using the following tools and technologies:
 
-📊 Power BI Desktop – Main platform for building the financial dashboard and interactive storytelling
+ Power BI Desktop – Main platform for building the financial dashboard and interactive storytelling
 
-🔄 Power Query (M) – For extracting, cleaning, and transforming raw financial data
+ Power Query (M) – For extracting, cleaning, and transforming raw financial data
 
-🧠 DAX (Data Analysis Expressions) – For dynamic KPIs such as YoY growth, profit margin, and discounts
+ DAX (Data Analysis Expressions) – For dynamic KPIs such as YoY growth, profit margin, and discounts
 
-🧩 Data Modeling – Structured relationships between sales, orders, customers, and geography
+ Data Modeling – Structured relationships between sales, orders, customers, and geography
 
-🗄 SQL / Relational Database – For querying and aggregating financial transactions before loading into Power BI
+ SQL / Relational Database – For querying and aggregating financial transactions before loading into Power BI
 
-📁 File Format – .pbix (Power BI project) with exportable visuals
+ File Format – .pbix (Power BI project) with exportable visuals
 
 4. Data Source
 
@@ -94,11 +94,11 @@ Provides granular profit margin insights at both segment and sub-segment levels.
 
 7. Business Impact & Insights
 
-📈 Explosive Growth: Sales, orders, and profit grew >200% YoY, reflecting strong expansion.
+ Explosive Growth: Sales, orders, and profit grew >200% YoY, reflecting strong expansion.
 
-📊 Profitability Risk: Despite growth, profit margin slipped from 14.7% → 14.1%, indicating rising costs or heavy discounting.
+ Profitability Risk: Despite growth, profit margin slipped from 14.7% → 14.1%, indicating rising costs or heavy discounting.
 
-🌍 Geographic Leaders: Canada and France lead sales volume and profit contribution.
+ Geographic Leaders: Canada and France lead sales volume and profit contribution.
 
 🛒 Product Winners: Paseo and VTT drive the majority of revenue, essential for inventory and marketing focus.
 
