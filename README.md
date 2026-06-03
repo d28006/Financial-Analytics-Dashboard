@@ -100,8 +100,8 @@ Provides granular profit margin insights at both segment and sub-segment levels.
 
  Geographic Leaders: Canada and France lead sales volume and profit contribution.
 
-🛒 Product Winners: Paseo and VTT drive the majority of revenue, essential for inventory and marketing focus.
+ Product Winners: Paseo and VTT drive the majority of revenue, essential for inventory and marketing focus.
 
-💸 Discount Monitoring: High discount levels (65% in some categories) highlight the need for pricing optimization to protect margins.
+ Discount Monitoring: High discount levels (65% in some categories) highlight the need for pricing optimization to protect margins.
 
-🎯 Strategic Planning: The dashboard equips leadership to balance growth, margin stability, and product/region strategy.)
+ Strategic Planning: The dashboard equips leadership to balance growth, margin stability, and product/region strategy.)
